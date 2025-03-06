@@ -1,2 +1,0 @@
-# PlantWatering
-Plant Watering App
